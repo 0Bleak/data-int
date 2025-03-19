@@ -3,17 +3,18 @@ import pandas as pd
 import json
 import xml.etree.ElementTree as ET
 
-csv_file = "/home/bleak/Desktop/Global-water/data/cleaned_global_water_consumption.csv"
-xml_file = "/home/bleak/Desktop/Global-water/data/water_crisis.xml"
-json_file = "/home/bleak/Desktop/Global-water/data/water_policies.json"
 
-db_file = "/home/bleak/Desktop/Global-water/global_water.db"
+csv_file = "/home/bleak/Desktop/data-int/data/cleaned_global_water_consumption.csv"
+xml_file = "/home/bleak/Desktop/data-int/data/water_crisis.xml"
+json_file = "/home/bleak/Desktop/data-int/data/water_policies.json"
+
+
+db_file = "../db/global_water.db"
 conn = sqlite3.connect(db_file)
 cursor = conn.cursor()
 
 df_csv = pd.read_csv(csv_file)
 
-# Clean CSV Data
 df_csv.columns = df_csv.columns.str.strip().str.lower().str.replace(" ", "_")  
 df_csv.drop_duplicates(inplace=True)  
 df_csv.fillna("", inplace=True)  
