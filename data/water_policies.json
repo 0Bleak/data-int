@@ -1,0 +1,5487 @@
+[
+    {
+        "Country": "Argentina",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4814.9,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4550.63,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4827.49,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4526.6,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6345.66,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4580.77,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4529.83,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6911.02,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4940.48,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6378.78,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5028.75,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5353.37,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5564.12,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5056.29,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5581.61,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5651.15,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4673.18,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4771.98,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6491.3,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4841.57,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5820.08,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4324.68,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5238.81,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5567.65,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Argentina",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6477.9,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5450.4,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4482.29,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4880.03,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5408.1,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5038.66,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5036.1,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4383.76,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3769.24,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5113.8,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4427.99,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5561.46,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4677.74,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4981.66,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4265.84,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5381.06,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5214.07,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4467.22,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6267.16,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6032.99,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5480.72,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4847.99,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6594.51,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4776.98,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 2077.95,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Australia",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6440.05,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5353.03,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6390.09,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4338.75,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6133.6,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5118.84,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5606.27,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 7813.43,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6428.58,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6655.02,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4987.07,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 3370.37,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4835.82,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4690.25,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5627.41,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5591.12,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5745.82,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5017.92,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5745.63,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 2871.57,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4978.66,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5530.54,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4571.4,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4177.48,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6882.32,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Brazil",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4171.89,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3825.15,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3368.31,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5234.34,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3463.24,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3970.45,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5118.32,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 7484.23,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5726.07,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5227.74,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3614.27,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5323.5,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5389.31,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4786.84,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4606.66,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5638.89,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 3",
+        "Investment (Million USD)": 3672.32,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5683.62,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3861.37,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5638.36,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5456.14,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4451.36,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5972.78,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4706.8,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6537.09,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Canada",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4769.77,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6810.28,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6118.1,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4407.05,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5602.17,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 7984.18,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5617.11,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4555.55,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4625.01,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5584.95,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3836.79,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5576.53,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5788.9,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5426.23,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5435.7,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6243.16,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3474.68,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5242.09,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5251.93,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5101.58,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6079.22,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4154.81,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4361.33,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5285.47,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3699.89,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "China",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5073.25,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4889.34,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5214.98,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5598.59,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4967.46,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6399.19,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4680.18,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4793.64,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4443.49,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5812.05,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4437.32,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4823.27,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5916.59,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5749.87,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4654.57,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5952.47,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6063.28,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5919.14,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4629.6,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6342.69,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4268.73,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 3500.44,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5642.75,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4742.74,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 2806.04,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "France",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3712.73,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 2152.24,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6464.29,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5691.54,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 7279.87,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4364.25,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3569.52,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5194.7,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6033.77,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6257.87,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 1296.37,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 3224.9,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6133.22,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4961.75,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3735.2,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5313.72,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6604.8,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5285.62,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5488.31,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5141.88,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5311.41,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6489.57,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4257.87,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5280.98,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5640.22,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Germany",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5512.03,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4223.93,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4787.56,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 3447.38,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4551.04,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4509.4,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4793.32,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6037.16,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4381.34,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6298.13,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5581.45,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5255.21,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 7151.67,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5980.82,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6230.14,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5004.38,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5511.21,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4255.26,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6284.94,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4074.21,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4278.26,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4463.56,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4426.99,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4978.88,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4512.88,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "India",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4797.51,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4234.45,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4241.81,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3356.53,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5005.68,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4948.59,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3406.31,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3617.12,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4375.9,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4970.17,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5263.72,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3940.85,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5130.7,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6123.84,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5242.05,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3987.27,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5016.76,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6486.13,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 7196.83,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4397.09,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4130.07,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5585.99,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4638.87,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6225.44,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5592.05,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Indonesia",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4398.46,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3651.18,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6682.78,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6136.31,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4467.49,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6047.34,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4829.13,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3836.05,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6463.18,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4768.44,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4177.09,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6316.25,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4820.22,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5741.43,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5499.06,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4534.77,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4930.14,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6022.1,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4336.27,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4880.13,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5861.85,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 2994.34,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4179.85,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4739.64,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4384.24,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Italy",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4197.01,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6052.57,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5494.27,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4990.58,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5603.56,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4375.05,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4560.6,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4632.4,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4027.14,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 3929.17,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6106.5,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4416.04,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5597.0,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5263.75,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4761.54,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5365.09,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4105.64,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6158.71,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5760.42,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6643.88,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5828.72,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 2118.17,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4233.77,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6151.54,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3456.94,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Japan",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6223.77,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5290.33,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4717.71,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 2790.71,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5040.66,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5243.08,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5110.57,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4478.1,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5272.19,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4814.03,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3904.12,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3822.94,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4952.06,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 3",
+        "Investment (Million USD)": 5000.88,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4035.38,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5467.51,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4701.98,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3853.89,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5271.43,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6546.23,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4800.16,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5589.77,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5333.41,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4976.98,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5040.63,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Mexico",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4525.79,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5449.99,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6292.13,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4871.86,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5623.41,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5551.5,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4279.84,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6140.4,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5526.41,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6083.67,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4726.7,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3754.8,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4584.71,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5428.11,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4380.29,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6126.4,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4775.32,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4605.15,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3823.33,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4907.21,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3538.0,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5204.75,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3735.91,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4624.53,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4817.19,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Russia",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5003.65,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5641.4,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5134.09,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4177.51,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4125.48,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5815.48,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5598.66,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5223.8,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5379.62,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5834.1,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5518.96,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5727.58,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5044.67,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5847.36,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4349.01,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5383.66,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5662.39,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3499.29,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6163.83,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4451.07,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3550.57,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5380.7,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4684.48,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5864.78,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6049.8,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5552.49,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5648.96,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4838.18,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5525.67,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4382.54,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6469.52,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4297.35,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4484.66,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5028.68,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6205.03,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4205.49,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4880.43,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 3724.61,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4279.31,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6619.17,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5145.02,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5247.8,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5574.92,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5651.66,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5452.21,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4139.89,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4671.55,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4062.18,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4427.41,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5389.69,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Africa",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5097.36,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4478.76,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3779.75,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4897.24,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6153.55,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5159.52,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5082.75,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4458.14,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4949.93,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5096.04,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4377.11,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6050.89,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3977.36,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5631.54,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4774.83,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5026.02,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 2838.38,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4698.24,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4854.55,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4463.97,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6003.44,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6252.99,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4448.05,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5835.42,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 2952.34,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "South Korea",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5607.87,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5291.45,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3640.55,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4565.17,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5636.75,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6362.82,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4252.67,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5859.82,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4469.08,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6210.84,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4488.82,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 2986.33,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4369.8,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4347.2,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4561.34,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3873.22,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3954.14,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4089.6,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4417.81,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5545.89,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5672.76,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4757.22,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4694.18,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4339.58,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4108.9,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Spain",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5469.82,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6212.65,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3724.17,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3646.34,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 3261.13,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5802.01,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 2502.16,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 2385.78,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5075.28,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5610.42,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5885.59,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5594.48,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6567.47,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5285.62,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4864.73,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3336.07,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5194.17,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5464.85,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6002.93,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3483.94,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4541.37,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 3165.15,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4948.12,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4942.05,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5897.18,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "Turkey",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5432.17,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5119.78,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6237.29,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5536.77,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4618.7,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3251.32,
+        "Regulations": [
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3668.3,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4169.65,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4132.12,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5733.3,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 3",
+        "Investment (Million USD)": 3328.97,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6334.36,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5405.67,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5830.28,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4700.37,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4027.33,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5238.28,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3945.87,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 3611.92,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6284.71,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4750.79,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5533.33,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5258.18,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4719.31,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5190.36,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "UK",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4987.79,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2000,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6313.04,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2001,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4451.73,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2002,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6061.27,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2003,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6017.73,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2004,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6262.4,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2005,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4657.65,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2006,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4447.59,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2007,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 6496.29,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2008,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5482.52,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2009,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 7436.71,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2010,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 6262.21,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2011,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5569.67,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2012,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5892.8,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2013,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 3187.9,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2014,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 4554.45,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2015,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4515.46,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2016,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5029.96,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2017,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4315.05,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2018,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5681.25,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2019,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5478.64,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2020,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4180.97,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2021,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 5720.94,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2022,
+        "Policy": "Water conservation policy level 2",
+        "Investment (Million USD)": 4409.78,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2023,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 5668.65,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    },
+    {
+        "Country": "USA",
+        "Year": 2024,
+        "Policy": "Water conservation policy level 1",
+        "Investment (Million USD)": 2494.85,
+        "Regulations": [
+            "Agriculture",
+            "Industry",
+            "Household"
+        ]
+    }
+]
