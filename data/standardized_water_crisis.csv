@@ -1,0 +1,501 @@
+Country,Year,CrisisSeverity,MitigationEfforts
+Argentina,2000,Medium,Moderate conservation policies
+Argentina,2001,Medium,Moderate conservation policies
+Argentina,2002,Medium,Moderate conservation policies
+Argentina,2003,Medium,Moderate conservation policies
+Argentina,2004,Low,Moderate conservation policies
+Argentina,2005,Medium,Moderate conservation policies
+Argentina,2006,Medium,Moderate conservation policies
+Argentina,2007,Medium,Moderate conservation policies
+Argentina,2008,Medium,Moderate conservation policies
+Argentina,2009,Medium,Moderate conservation policies
+Argentina,2010,Medium,Moderate conservation policies
+Argentina,2011,Medium,Moderate conservation policies
+Argentina,2012,Medium,Moderate conservation policies
+Argentina,2013,Medium,Moderate conservation policies
+Argentina,2014,Medium,Moderate conservation policies
+Argentina,2015,Medium,Moderate conservation policies
+Argentina,2016,Medium,Moderate conservation policies
+Argentina,2017,Medium,Moderate conservation policies
+Argentina,2018,Medium,Moderate conservation policies
+Argentina,2019,Medium,Moderate conservation policies
+Argentina,2020,Medium,Moderate conservation policies
+Argentina,2021,Medium,Moderate conservation policies
+Argentina,2022,Medium,Moderate conservation policies
+Argentina,2023,Medium,Moderate conservation policies
+Argentina,2024,Medium,Moderate conservation policies
+Australia,2000,Medium,Moderate conservation policies
+Australia,2001,Medium,Moderate conservation policies
+Australia,2002,Medium,Moderate conservation policies
+Australia,2003,Medium,Moderate conservation policies
+Australia,2004,Medium,Moderate conservation policies
+Australia,2005,Medium,Moderate conservation policies
+Australia,2006,Medium,Moderate conservation policies
+Australia,2007,Medium,Moderate conservation policies
+Australia,2008,Medium,Moderate conservation policies
+Australia,2009,Medium,Moderate conservation policies
+Australia,2010,Medium,Moderate conservation policies
+Australia,2011,Medium,Moderate conservation policies
+Australia,2012,Medium,Moderate conservation policies
+Australia,2013,Medium,Moderate conservation policies
+Australia,2014,Medium,Moderate conservation policies
+Australia,2015,Medium,Moderate conservation policies
+Australia,2016,Medium,Moderate conservation policies
+Australia,2017,Medium,Moderate conservation policies
+Australia,2018,Medium,Moderate conservation policies
+Australia,2019,Medium,Moderate conservation policies
+Australia,2020,Medium,Moderate conservation policies
+Australia,2021,Medium,Moderate conservation policies
+Australia,2022,Medium,Moderate conservation policies
+Australia,2023,Medium,Moderate conservation policies
+Australia,2024,Low,Moderate conservation policies
+Brazil,2000,Medium,Moderate conservation policies
+Brazil,2001,Medium,Moderate conservation policies
+Brazil,2002,Medium,Moderate conservation policies
+Brazil,2003,Medium,Moderate conservation policies
+Brazil,2004,Medium,Moderate conservation policies
+Brazil,2005,Medium,Moderate conservation policies
+Brazil,2006,Medium,Moderate conservation policies
+Brazil,2007,Medium,Moderate conservation policies
+Brazil,2008,Medium,Moderate conservation policies
+Brazil,2009,Medium,Moderate conservation policies
+Brazil,2010,Low,Moderate conservation policies
+Brazil,2011,Medium,Moderate conservation policies
+Brazil,2012,Medium,Moderate conservation policies
+Brazil,2013,Medium,Moderate conservation policies
+Brazil,2014,Medium,Moderate conservation policies
+Brazil,2015,Low,Moderate conservation policies
+Brazil,2016,Medium,Moderate conservation policies
+Brazil,2017,Medium,Moderate conservation policies
+Brazil,2018,Medium,Moderate conservation policies
+Brazil,2019,Medium,Moderate conservation policies
+Brazil,2020,Medium,Moderate conservation policies
+Brazil,2021,Medium,Moderate conservation policies
+Brazil,2022,Medium,Moderate conservation policies
+Brazil,2023,Low,Moderate conservation policies
+Brazil,2024,Medium,Moderate conservation policies
+Canada,2000,Medium,Moderate conservation policies
+Canada,2001,Medium,Moderate conservation policies
+Canada,2002,Medium,Moderate conservation policies
+Canada,2003,Medium,Moderate conservation policies
+Canada,2004,Medium,Moderate conservation policies
+Canada,2005,Medium,Moderate conservation policies
+Canada,2006,Medium,Moderate conservation policies
+Canada,2007,Low,Moderate conservation policies
+Canada,2008,Medium,Moderate conservation policies
+Canada,2009,Medium,Moderate conservation policies
+Canada,2010,Medium,Moderate conservation policies
+Canada,2011,Medium,Moderate conservation policies
+Canada,2012,Medium,Moderate conservation policies
+Canada,2013,Medium,Moderate conservation policies
+Canada,2014,Medium,Moderate conservation policies
+Canada,2015,Medium,Moderate conservation policies
+Canada,2016,Medium,Moderate conservation policies
+Canada,2017,Medium,Moderate conservation policies
+Canada,2018,Medium,Moderate conservation policies
+Canada,2019,Medium,Moderate conservation policies
+Canada,2020,Medium,Moderate conservation policies
+Canada,2021,Medium,Moderate conservation policies
+Canada,2022,Medium,Moderate conservation policies
+Canada,2023,Medium,Moderate conservation policies
+Canada,2024,Medium,Moderate conservation policies
+China,2000,Medium,Moderate conservation policies
+China,2001,Medium,Moderate conservation policies
+China,2002,Medium,Moderate conservation policies
+China,2003,Medium,Moderate conservation policies
+China,2004,Medium,Moderate conservation policies
+China,2005,Medium,Moderate conservation policies
+China,2006,Medium,Moderate conservation policies
+China,2007,Medium,Moderate conservation policies
+China,2008,Medium,Moderate conservation policies
+China,2009,Medium,Moderate conservation policies
+China,2010,Low,Moderate conservation policies
+China,2011,Medium,Moderate conservation policies
+China,2012,Medium,Moderate conservation policies
+China,2013,Low,Moderate conservation policies
+China,2014,Medium,Moderate conservation policies
+China,2015,Medium,Moderate conservation policies
+China,2016,Medium,Moderate conservation policies
+China,2017,Medium,Moderate conservation policies
+China,2018,Medium,Moderate conservation policies
+China,2019,Medium,Moderate conservation policies
+China,2020,Medium,Moderate conservation policies
+China,2021,Medium,Moderate conservation policies
+China,2022,Medium,Moderate conservation policies
+China,2023,Medium,Moderate conservation policies
+China,2024,Medium,Moderate conservation policies
+France,2000,Medium,Moderate conservation policies
+France,2001,Medium,Moderate conservation policies
+France,2002,Medium,Moderate conservation policies
+France,2003,Medium,Moderate conservation policies
+France,2004,Low,Moderate conservation policies
+France,2005,Medium,Moderate conservation policies
+France,2006,Medium,Moderate conservation policies
+France,2007,Medium,Moderate conservation policies
+France,2008,Medium,Moderate conservation policies
+France,2009,Low,Moderate conservation policies
+France,2010,Medium,Moderate conservation policies
+France,2011,Medium,Moderate conservation policies
+France,2012,Medium,Moderate conservation policies
+France,2013,Medium,Moderate conservation policies
+France,2014,Medium,Moderate conservation policies
+France,2015,Medium,Moderate conservation policies
+France,2016,Medium,Moderate conservation policies
+France,2017,Medium,Moderate conservation policies
+France,2018,Medium,Moderate conservation policies
+France,2019,Medium,Moderate conservation policies
+France,2020,Low,Moderate conservation policies
+France,2021,Medium,Moderate conservation policies
+France,2022,Medium,Moderate conservation policies
+France,2023,Medium,Moderate conservation policies
+France,2024,Medium,Moderate conservation policies
+Germany,2000,Medium,Moderate conservation policies
+Germany,2001,Medium,Moderate conservation policies
+Germany,2002,Low,Moderate conservation policies
+Germany,2003,Medium,Moderate conservation policies
+Germany,2004,Medium,Moderate conservation policies
+Germany,2005,Medium,Moderate conservation policies
+Germany,2006,Medium,Moderate conservation policies
+Germany,2007,Medium,Moderate conservation policies
+Germany,2008,Low,Moderate conservation policies
+Germany,2009,Medium,Moderate conservation policies
+Germany,2010,Low,Moderate conservation policies
+Germany,2011,Medium,Moderate conservation policies
+Germany,2012,Medium,Moderate conservation policies
+Germany,2013,Medium,Moderate conservation policies
+Germany,2014,Medium,Moderate conservation policies
+Germany,2015,Low,Moderate conservation policies
+Germany,2016,Medium,Moderate conservation policies
+Germany,2017,Medium,Moderate conservation policies
+Germany,2018,Medium,Moderate conservation policies
+Germany,2019,Medium,Moderate conservation policies
+Germany,2020,Medium,Moderate conservation policies
+Germany,2021,Medium,Moderate conservation policies
+Germany,2022,Medium,Moderate conservation policies
+Germany,2023,Medium,Moderate conservation policies
+Germany,2024,Medium,Moderate conservation policies
+India,2000,Medium,Moderate conservation policies
+India,2001,Medium,Moderate conservation policies
+India,2002,Low,Moderate conservation policies
+India,2003,Medium,Moderate conservation policies
+India,2004,Medium,Moderate conservation policies
+India,2005,Medium,Moderate conservation policies
+India,2006,Medium,Moderate conservation policies
+India,2007,Low,Moderate conservation policies
+India,2008,Medium,Moderate conservation policies
+India,2009,Medium,Moderate conservation policies
+India,2010,Low,Moderate conservation policies
+India,2011,Medium,Moderate conservation policies
+India,2012,Medium,Moderate conservation policies
+India,2013,Medium,Moderate conservation policies
+India,2014,Medium,Moderate conservation policies
+India,2015,Medium,Moderate conservation policies
+India,2016,Medium,Moderate conservation policies
+India,2017,Medium,Moderate conservation policies
+India,2018,Medium,Moderate conservation policies
+India,2019,Medium,Moderate conservation policies
+India,2020,Medium,Moderate conservation policies
+India,2021,Medium,Moderate conservation policies
+India,2022,Medium,Moderate conservation policies
+India,2023,Medium,Moderate conservation policies
+India,2024,Medium,Moderate conservation policies
+Indonesia,2000,Low,Moderate conservation policies
+Indonesia,2001,Medium,Moderate conservation policies
+Indonesia,2002,Medium,Moderate conservation policies
+Indonesia,2003,Medium,Moderate conservation policies
+Indonesia,2004,Medium,Moderate conservation policies
+Indonesia,2005,Medium,Moderate conservation policies
+Indonesia,2006,Medium,Moderate conservation policies
+Indonesia,2007,Medium,Moderate conservation policies
+Indonesia,2008,Low,Moderate conservation policies
+Indonesia,2009,Medium,Moderate conservation policies
+Indonesia,2010,Medium,Moderate conservation policies
+Indonesia,2011,Medium,Moderate conservation policies
+Indonesia,2012,Medium,Moderate conservation policies
+Indonesia,2013,Medium,Moderate conservation policies
+Indonesia,2014,Medium,Moderate conservation policies
+Indonesia,2015,Medium,Moderate conservation policies
+Indonesia,2016,Medium,Moderate conservation policies
+Indonesia,2017,Low,Moderate conservation policies
+Indonesia,2018,Medium,Moderate conservation policies
+Indonesia,2019,Medium,Moderate conservation policies
+Indonesia,2020,Medium,Moderate conservation policies
+Indonesia,2021,Medium,Moderate conservation policies
+Indonesia,2022,Medium,Moderate conservation policies
+Indonesia,2023,Medium,Moderate conservation policies
+Indonesia,2024,Medium,Moderate conservation policies
+Italy,2000,Medium,Moderate conservation policies
+Italy,2001,Medium,Moderate conservation policies
+Italy,2002,Low,Moderate conservation policies
+Italy,2003,Low,Moderate conservation policies
+Italy,2004,Medium,Moderate conservation policies
+Italy,2005,Medium,Moderate conservation policies
+Italy,2006,Medium,Moderate conservation policies
+Italy,2007,Medium,Moderate conservation policies
+Italy,2008,Medium,Moderate conservation policies
+Italy,2009,Low,Moderate conservation policies
+Italy,2010,Medium,Moderate conservation policies
+Italy,2011,Medium,Moderate conservation policies
+Italy,2012,Low,Moderate conservation policies
+Italy,2013,Low,Moderate conservation policies
+Italy,2014,Medium,Moderate conservation policies
+Italy,2015,Medium,Moderate conservation policies
+Italy,2016,Medium,Moderate conservation policies
+Italy,2017,Medium,Moderate conservation policies
+Italy,2018,Medium,Moderate conservation policies
+Italy,2019,Medium,Moderate conservation policies
+Italy,2020,Low,Moderate conservation policies
+Italy,2021,Medium,Moderate conservation policies
+Italy,2022,Medium,Moderate conservation policies
+Italy,2023,Medium,Moderate conservation policies
+Italy,2024,Medium,Moderate conservation policies
+Japan,2000,Medium,Moderate conservation policies
+Japan,2001,Medium,Moderate conservation policies
+Japan,2002,Medium,Moderate conservation policies
+Japan,2003,Medium,Moderate conservation policies
+Japan,2004,Medium,Moderate conservation policies
+Japan,2005,Medium,Moderate conservation policies
+Japan,2006,Medium,Moderate conservation policies
+Japan,2007,Low,Moderate conservation policies
+Japan,2008,Low,Moderate conservation policies
+Japan,2009,Medium,Moderate conservation policies
+Japan,2010,Medium,Moderate conservation policies
+Japan,2011,Medium,Moderate conservation policies
+Japan,2012,Medium,Moderate conservation policies
+Japan,2013,Low,Moderate conservation policies
+Japan,2014,Medium,Moderate conservation policies
+Japan,2015,Medium,Moderate conservation policies
+Japan,2016,Medium,Moderate conservation policies
+Japan,2017,Medium,Moderate conservation policies
+Japan,2018,Medium,Moderate conservation policies
+Japan,2019,Medium,Moderate conservation policies
+Japan,2020,Low,Moderate conservation policies
+Japan,2021,Medium,Moderate conservation policies
+Japan,2022,Medium,Moderate conservation policies
+Japan,2023,Medium,Moderate conservation policies
+Japan,2024,Low,Moderate conservation policies
+Mexico,2000,Medium,Moderate conservation policies
+Mexico,2001,Medium,Moderate conservation policies
+Mexico,2002,Medium,Moderate conservation policies
+Mexico,2003,Medium,Moderate conservation policies
+Mexico,2004,Medium,Moderate conservation policies
+Mexico,2005,Low,Moderate conservation policies
+Mexico,2006,Medium,Moderate conservation policies
+Mexico,2007,Medium,Moderate conservation policies
+Mexico,2008,Medium,Moderate conservation policies
+Mexico,2009,Medium,Moderate conservation policies
+Mexico,2010,Medium,Moderate conservation policies
+Mexico,2011,Medium,Moderate conservation policies
+Mexico,2012,Medium,Moderate conservation policies
+Mexico,2013,Medium,Moderate conservation policies
+Mexico,2014,Medium,Moderate conservation policies
+Mexico,2015,Medium,Moderate conservation policies
+Mexico,2016,Medium,Moderate conservation policies
+Mexico,2017,Medium,Moderate conservation policies
+Mexico,2018,Medium,Moderate conservation policies
+Mexico,2019,Medium,Moderate conservation policies
+Mexico,2020,Medium,Moderate conservation policies
+Mexico,2021,Medium,Moderate conservation policies
+Mexico,2022,Medium,Moderate conservation policies
+Mexico,2023,Medium,Moderate conservation policies
+Mexico,2024,Medium,Moderate conservation policies
+Russia,2000,Medium,Moderate conservation policies
+Russia,2001,Medium,Moderate conservation policies
+Russia,2002,Medium,Moderate conservation policies
+Russia,2003,Medium,Moderate conservation policies
+Russia,2004,Medium,Moderate conservation policies
+Russia,2005,Medium,Moderate conservation policies
+Russia,2006,Medium,Moderate conservation policies
+Russia,2007,Medium,Moderate conservation policies
+Russia,2008,Low,Moderate conservation policies
+Russia,2009,Medium,Moderate conservation policies
+Russia,2010,Medium,Moderate conservation policies
+Russia,2011,Medium,Moderate conservation policies
+Russia,2012,Medium,Moderate conservation policies
+Russia,2013,Medium,Moderate conservation policies
+Russia,2014,Medium,Moderate conservation policies
+Russia,2015,Medium,Moderate conservation policies
+Russia,2016,Low,Moderate conservation policies
+Russia,2017,Medium,Moderate conservation policies
+Russia,2018,Medium,Moderate conservation policies
+Russia,2019,Medium,Moderate conservation policies
+Russia,2020,Low,Moderate conservation policies
+Russia,2021,Medium,Moderate conservation policies
+Russia,2022,Medium,Moderate conservation policies
+Russia,2023,Medium,Moderate conservation policies
+Russia,2024,Medium,Moderate conservation policies
+Saudi Arabia,2000,Medium,Moderate conservation policies
+Saudi Arabia,2001,Medium,Moderate conservation policies
+Saudi Arabia,2002,Medium,Moderate conservation policies
+Saudi Arabia,2003,Medium,Moderate conservation policies
+Saudi Arabia,2004,Medium,Moderate conservation policies
+Saudi Arabia,2005,Medium,Moderate conservation policies
+Saudi Arabia,2006,Medium,Moderate conservation policies
+Saudi Arabia,2007,Low,Moderate conservation policies
+Saudi Arabia,2008,Medium,Moderate conservation policies
+Saudi Arabia,2009,Medium,Moderate conservation policies
+Saudi Arabia,2010,Medium,Moderate conservation policies
+Saudi Arabia,2011,Low,Moderate conservation policies
+Saudi Arabia,2012,Medium,Moderate conservation policies
+Saudi Arabia,2013,Medium,Moderate conservation policies
+Saudi Arabia,2014,Medium,Moderate conservation policies
+Saudi Arabia,2015,Medium,Moderate conservation policies
+Saudi Arabia,2016,Medium,Moderate conservation policies
+Saudi Arabia,2017,Medium,Moderate conservation policies
+Saudi Arabia,2018,Medium,Moderate conservation policies
+Saudi Arabia,2019,Medium,Moderate conservation policies
+Saudi Arabia,2020,Medium,Moderate conservation policies
+Saudi Arabia,2021,Medium,Moderate conservation policies
+Saudi Arabia,2022,Medium,Moderate conservation policies
+Saudi Arabia,2023,Medium,Moderate conservation policies
+Saudi Arabia,2024,Medium,Moderate conservation policies
+South Africa,2000,Medium,Moderate conservation policies
+South Africa,2001,Medium,Moderate conservation policies
+South Africa,2002,Medium,Moderate conservation policies
+South Africa,2003,Medium,Moderate conservation policies
+South Africa,2004,Medium,Moderate conservation policies
+South Africa,2005,Medium,Moderate conservation policies
+South Africa,2006,Medium,Moderate conservation policies
+South Africa,2007,Medium,Moderate conservation policies
+South Africa,2008,Medium,Moderate conservation policies
+South Africa,2009,Medium,Moderate conservation policies
+South Africa,2010,Medium,Moderate conservation policies
+South Africa,2011,Low,Moderate conservation policies
+South Africa,2012,Medium,Moderate conservation policies
+South Africa,2013,Medium,Moderate conservation policies
+South Africa,2014,Medium,Moderate conservation policies
+South Africa,2015,Medium,Moderate conservation policies
+South Africa,2016,Medium,Moderate conservation policies
+South Africa,2017,Medium,Moderate conservation policies
+South Africa,2018,Medium,Moderate conservation policies
+South Africa,2019,Medium,Moderate conservation policies
+South Africa,2020,Medium,Moderate conservation policies
+South Africa,2021,Medium,Moderate conservation policies
+South Africa,2022,Medium,Moderate conservation policies
+South Africa,2023,Medium,Moderate conservation policies
+South Africa,2024,Medium,Moderate conservation policies
+South Korea,2000,Medium,Moderate conservation policies
+South Korea,2001,Medium,Moderate conservation policies
+South Korea,2002,Low,Moderate conservation policies
+South Korea,2003,Medium,Moderate conservation policies
+South Korea,2004,Medium,Moderate conservation policies
+South Korea,2005,Medium,Moderate conservation policies
+South Korea,2006,Medium,Moderate conservation policies
+South Korea,2007,Medium,Moderate conservation policies
+South Korea,2008,Medium,Moderate conservation policies
+South Korea,2009,Low,Moderate conservation policies
+South Korea,2010,Medium,Moderate conservation policies
+South Korea,2011,Medium,Moderate conservation policies
+South Korea,2012,Medium,Moderate conservation policies
+South Korea,2013,Medium,Moderate conservation policies
+South Korea,2014,Medium,Moderate conservation policies
+South Korea,2015,Medium,Moderate conservation policies
+South Korea,2016,Low,Moderate conservation policies
+South Korea,2017,Medium,Moderate conservation policies
+South Korea,2018,Medium,Moderate conservation policies
+South Korea,2019,Medium,Moderate conservation policies
+South Korea,2020,Medium,Moderate conservation policies
+South Korea,2021,Medium,Moderate conservation policies
+South Korea,2022,Medium,Moderate conservation policies
+South Korea,2023,Medium,Moderate conservation policies
+South Korea,2024,Low,Moderate conservation policies
+Spain,2000,Medium,Moderate conservation policies
+Spain,2001,Medium,Moderate conservation policies
+Spain,2002,Low,Moderate conservation policies
+Spain,2003,Medium,Moderate conservation policies
+Spain,2004,Medium,Moderate conservation policies
+Spain,2005,Low,Moderate conservation policies
+Spain,2006,Medium,Moderate conservation policies
+Spain,2007,Medium,Moderate conservation policies
+Spain,2008,Medium,Moderate conservation policies
+Spain,2009,Medium,Moderate conservation policies
+Spain,2010,Medium,Moderate conservation policies
+Spain,2011,Medium,Moderate conservation policies
+Spain,2012,Medium,Moderate conservation policies
+Spain,2013,Medium,Moderate conservation policies
+Spain,2014,Medium,Moderate conservation policies
+Spain,2015,Medium,Moderate conservation policies
+Spain,2016,Medium,Moderate conservation policies
+Spain,2017,Medium,Moderate conservation policies
+Spain,2018,Medium,Moderate conservation policies
+Spain,2019,Medium,Moderate conservation policies
+Spain,2020,Medium,Moderate conservation policies
+Spain,2021,Medium,Moderate conservation policies
+Spain,2022,Medium,Moderate conservation policies
+Spain,2023,Medium,Moderate conservation policies
+Spain,2024,Medium,Moderate conservation policies
+Turkey,2000,Medium,Moderate conservation policies
+Turkey,2001,Medium,Moderate conservation policies
+Turkey,2002,Medium,Moderate conservation policies
+Turkey,2003,Low,Moderate conservation policies
+Turkey,2004,Medium,Moderate conservation policies
+Turkey,2005,Low,Moderate conservation policies
+Turkey,2006,Medium,Moderate conservation policies
+Turkey,2007,Medium,Moderate conservation policies
+Turkey,2008,Medium,Moderate conservation policies
+Turkey,2009,Medium,Moderate conservation policies
+Turkey,2010,Medium,Moderate conservation policies
+Turkey,2011,Medium,Moderate conservation policies
+Turkey,2012,Medium,Moderate conservation policies
+Turkey,2013,Medium,Moderate conservation policies
+Turkey,2014,Medium,Moderate conservation policies
+Turkey,2015,Medium,Moderate conservation policies
+Turkey,2016,Medium,Moderate conservation policies
+Turkey,2017,Medium,Moderate conservation policies
+Turkey,2018,Medium,Moderate conservation policies
+Turkey,2019,Medium,Moderate conservation policies
+Turkey,2020,Low,Moderate conservation policies
+Turkey,2021,Medium,Moderate conservation policies
+Turkey,2022,Medium,Moderate conservation policies
+Turkey,2023,Medium,Moderate conservation policies
+Turkey,2024,Medium,Moderate conservation policies
+UK,2000,Low,Moderate conservation policies
+UK,2001,Medium,Moderate conservation policies
+UK,2002,Medium,Moderate conservation policies
+UK,2003,Medium,Moderate conservation policies
+UK,2004,Medium,Moderate conservation policies
+UK,2005,Medium,Moderate conservation policies
+UK,2006,Medium,Moderate conservation policies
+UK,2007,Medium,Moderate conservation policies
+UK,2008,Medium,Moderate conservation policies
+UK,2009,Medium,Moderate conservation policies
+UK,2010,Medium,Moderate conservation policies
+UK,2011,Medium,Moderate conservation policies
+UK,2012,Medium,Moderate conservation policies
+UK,2013,Medium,Moderate conservation policies
+UK,2014,Medium,Moderate conservation policies
+UK,2015,Medium,Moderate conservation policies
+UK,2016,Medium,Moderate conservation policies
+UK,2017,Medium,Moderate conservation policies
+UK,2018,Medium,Moderate conservation policies
+UK,2019,Medium,Moderate conservation policies
+UK,2020,Medium,Moderate conservation policies
+UK,2021,Medium,Moderate conservation policies
+UK,2022,Medium,Moderate conservation policies
+UK,2023,Medium,Moderate conservation policies
+UK,2024,Medium,Moderate conservation policies
+USA,2000,Low,Moderate conservation policies
+USA,2001,Medium,Moderate conservation policies
+USA,2002,Medium,Moderate conservation policies
+USA,2003,Medium,Moderate conservation policies
+USA,2004,Medium,Moderate conservation policies
+USA,2005,Medium,Moderate conservation policies
+USA,2006,Medium,Moderate conservation policies
+USA,2007,Medium,Moderate conservation policies
+USA,2008,Low,Moderate conservation policies
+USA,2009,Medium,Moderate conservation policies
+USA,2010,Low,Moderate conservation policies
+USA,2011,Low,Moderate conservation policies
+USA,2012,Medium,Moderate conservation policies
+USA,2013,Low,Moderate conservation policies
+USA,2014,Low,Moderate conservation policies
+USA,2015,Medium,Moderate conservation policies
+USA,2016,Medium,Moderate conservation policies
+USA,2017,Medium,Moderate conservation policies
+USA,2018,Medium,Moderate conservation policies
+USA,2019,Medium,Moderate conservation policies
+USA,2020,Medium,Moderate conservation policies
+USA,2021,Medium,Moderate conservation policies
+USA,2022,Medium,Moderate conservation policies
+USA,2023,Low,Moderate conservation policies
+USA,2024,Low,Moderate conservation policies
