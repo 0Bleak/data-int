@@ -19,8 +19,19 @@ df["usage_balance"] = df.apply(
 
 df["water_stress_index"] = df.apply(
     lambda r: (r["CrisisSeverity"] + r["consumption_rainfall_ratio"] + r["groundwater_stress"] + r["usage_balance"]) /
-    (r["investment_consumption_ratio"] + 1)
+              (r["investment_consumption_ratio"] + 1)
     if not pd.isnull(r["investment_consumption_ratio"]) else np.nan, axis=1)
 
-df.to_csv("data/enriched_water_data.csv", index=False)
-print("Indices added and file saved.")
+indicator_columns = [
+    "Country",
+    "Year",
+    "consumption_rainfall_ratio",
+    "investment_consumption_ratio",
+    "groundwater_stress",
+    "usage_balance",
+    "water_stress_index"
+]
+
+indicators_df = df[indicator_columns]
+indicators_df.to_csv("data/indicators.csv", index=False)
+print("Indicators with primary keys saved as indicators_only.csv")
