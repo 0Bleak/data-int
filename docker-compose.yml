@@ -34,5 +34,19 @@ services:
              python calculate_indices.py &&
              python load_to_postgres.py"
 
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    depends_on:
+      - db
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/datasources:/etc/grafana/provisioning/datasources
+
 volumes:
   postgres_data:
+  grafana_data:
