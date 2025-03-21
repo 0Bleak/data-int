@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["sh", "-c", "python load_and_standardize.py && python clean_data.py && python transform_data.py && python merge_data.py && python load_to_postgres.py"]
+CMD ["sh", "-c", "python load_and_standardize.py && python clean_data.py && python transform_data.py && python merge_data.py && calculate_indices.py && python load_to_postgres.py"]
