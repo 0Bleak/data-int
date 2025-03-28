@@ -142,9 +142,9 @@ Chaque source apporte des informations différentes mais complémentaires sur la
    cd data-int
    ```
 
-1. **CDémarrer les conteneurs**
-```bash
-docker-compose up --build
-```
+1. **Démarrer les conteneurs**
+    ```bash
+    docker-compose up --build
+    ```
 
-Cela lance à la fois PostgreSQL et l’application qui exécute les scripts de chargement des données.
+Cela lance à la fois PostgreSQL et l’application qui exécute les scripts de chargement des données, et expose notre grafana pour visualisation des métrics.
