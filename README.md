@@ -84,7 +84,7 @@ Chaque source apporte des informations différentes mais complémentaires sur la
 
 **Qu’avons-nous fait ?**
 - Joint les datasets sur *(Country, Year)* pour obtenir un fichier final (`final_water_data.csv`).
-- Veillé à ce qu’aucune donnée ne soit perdue (vérification des valeurs manquantes).
+- Vérification des donnée pour qu'elles ne soient pas perdues (vérification des valeurs manquantes).
 
 **Résultat :**
 - Un fichier combiné pour ceux qui souhaitent une vision “tout-en-un”.
